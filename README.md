@@ -1,5 +1,9 @@
-# mini.css
+**My Changes** 
 
+1. I was unable to find the actual build steps needed ao I added 2 new scripts in package.json for me to build my small-ish mini-css falvor. 
+
+**End my Changes** 
+# mini.css
 A minimal, responsive, style-agnostic CSS framework
 
 [![npm](https://img.shields.io/npm/v/mini.css.svg)](https://www.npmjs.com/package/mini.css)

@@ -7,7 +7,9 @@
     "lib": "src/mini"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch src -o dist",
+    "scss-build": "node-sass src -o dist --output-style compressed"
   },
   "repository": {
     "type": "git",
